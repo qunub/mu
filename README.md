@@ -1,4 +1,4 @@
-# mu
+# HelperMu
 The automation training, reset, uplevel, and afk for Mu Online. Supported with upper SS6.
 
 
